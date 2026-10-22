@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 640px;
+    margin: 30px auto;
+    background: #0f172a;
+    color: #e2e8f0;
+}
+
+#titulo {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 16px;
+}
+
+th, td {
+    padding: 10px;
+    border-bottom: 1px solid #334155;
+    text-align: left;
+}
+
+.sube {
+    color: #22c55e;
+}
+
+.baja {
+    color: #ef4444;
+}
+
+canvas {
+    background: #1e293b;
+    border-radius: 8px;
+    width: 100%;
+}
+
+.panel {
+    background: #1e293b;
+    padding: 12px;
+    border-radius: 8px;
+    margin: 12px 0;
+}
+
+#avisos div {
+    padding: 6px;
+    margin: 4px 0;
+    border-radius: 6px;
+    background: #334155;
+}
+
+select, input, button {
+    padding: 6px;
+}
